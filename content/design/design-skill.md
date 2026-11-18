@@ -2,7 +2,9 @@
 ## Nutlope/hallmark
 - https://github.com/Nutlope/hallmark
 
-Together AI의 디자인 스킬. 사용자 글꼴과 색상을 읽고, 사진·수치 질문을 거쳐 50개 테마 중 3개를 추천받은 뒤 첫 화면 검토와 실제 브라우저 폭 검사 및 에이전트 리뷰를 거쳐 의존성 없는 HTML 한 장을 결과물로 생성합니다.<br/>
+Together AI의 디자인 스킬<br/>
+
+사용자 글꼴과 색상을 읽고, 사진·수치 질문을 거쳐 50개 테마 중 3개를 추천받은 뒤 첫 화면 검토와 실제 브라우저 폭 검사 및 에이전트 리뷰를 거쳐 의존성 없는 HTML 한 장을 결과물로 생성합니다.<br/>
 
 
 ## jakubkrehel/skills
