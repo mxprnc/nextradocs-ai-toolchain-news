@@ -38,7 +38,7 @@ https://github.com/backnotprop/plannotator
 ### elementalsouls/Claude-BugHunter
 https://github.com/elementalsouls/Claude-BugHunter
 
-버그 바운티 및 외부 모의 침투 테스트를 위한 스킬 모음입니다.<br/>
+Claude Code를 보안 연구자처럼 활용하여 버그 바운티를 수행하거나 외부 모의 침투 테스트를 위한 스킬 모음입니다.<br/>
 
 83개 스킬과 공개 보고서 681건에서 추출한 패턴, 제출 전 7문항 점검 절차를 제공합니다.<br/>
 
