@@ -82,3 +82,11 @@ https://github.com/max-sixty/worktrunk
 병렬 에이전트 작업을 지원하는 git worktree CLI 도구<br/>
 
 Claude Code용 플러그인 패널 등을 제공합니다.<br/>
+
+## 에이전트 브라우징
+### vercel-labs/agent-browser
+https://github.com/vercel-labs/agent-browser
+
+에이전트가 셸 명령을 통해 브라우저를 제어할 수 있도록 지원하는 CLI입니다.<br/>
+
+
