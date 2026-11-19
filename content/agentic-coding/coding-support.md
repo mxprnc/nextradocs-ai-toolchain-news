@@ -11,6 +11,46 @@ AI가 쓸데없이 코드를 길게 짜는 것을 막는 스킬<br/>
 만든사람 테스트에서는 코드가 53%, 비용이 26% 줄었습니다.
 <br/>
 
+## 코드리뷰
+### backnotprop/plannotator
+https://github.com/backnotprop/plannotator
+
+에이전트가 작성한 계획·문서·코드 변경을 브라우저에서 줄 단위 댓글로 검토하고, 피드백을 한 번에 에이전트에게 전달하는 도구입니다. 여러 에이전트의 검토 요청을 모아 관리하는 받은편지함(Inbox) 기능도 제공합니다.<br/>
+
+- **주요 업데이트**
+  - 이번 주 릴리스 7건 (2026.11.18)
+  - Inbox 에이전트의 Windows 동작 개선
+  - T3 Code 연결
+- **참고 사항**
+  - 작은 공유 링크는 암호화 없이 주소에 포함됩니다.
+  - 익명 사용 통계 기본 활성화
+
+<br/>
+
+### alibaba/open-code-review
+- 코드 변경 사항에 줄 단위 리뷰 댓글을 남기는 CLI 입니다.
+- 자세한 내용은 [vender-specific.md](/official-support/vendor-specific/#alibabaopen-code-review) 에 정리해두었습니다.
+
+<br/>
+
+
+## 버그바운티, 모의침투 테스트
+### elementalsouls/Claude-BugHunter
+https://github.com/elementalsouls/Claude-BugHunter
+
+버그 바운티 및 외부 모의 침투 테스트를 위한 스킬 모음입니다.<br/>
+
+83개 스킬과 공개 보고서 681건에서 추출한 패턴, 제출 전 7문항 점검 절차를 제공합니다.<br/>
+
+- **주요 업데이트**
+  - 이번 주 수정 PR 약 60건
+  - 자동 점검에서 쓰기 요청은 건너뛰도록 변경
+  - 리다이렉트는 따라가지 않고 기록만 하도록 변경
+- **참고 사항**
+  - 본인 소유이거나 서면으로 허가받은 자산에만 사용해야 합니다.
+  - 스킬 내용은 CC BY 4.0 라이선스이며 출처 표기가 필요합니다.
+
+
 ## 오픈소스 코딩 에이전트
 ### anomalyco/opencode
 https://github.com/anomalyco/opencode
