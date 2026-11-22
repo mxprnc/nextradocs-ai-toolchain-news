@@ -9,4 +9,5 @@ export default {
     "official-support": "공식 지원 도구",
     "non-ai-opensource": "Non-AI 오픈소스",
     "referenced-sources": "참고자료",
+    "news-feed": "AI 뉴스들",
 }
